@@ -44,3 +44,15 @@ Example input and output is in fold `Example`
 
 ##### Gifs #####
 
+片头动画
+图片切换：
+![avatar](https://github.com/ItemZheng/CVGenerateVedio/blob/master/Example/gif/%E7%89%87%E5%A4%B4%E5%8A%A8%E7%94%BB.gif)
+
+字幕移动渐变，图片淡入
+![avatar](https://github.com/ItemZheng/CVGenerateVedio/blob/master/Example/gif/%E5%AD%97%E5%B9%95%E7%A7%BB%E5%8A%A8%E6%B8%90%E5%8F%98_%E5%9B%BE%E7%89%87%E6%B7%A1%E5%85%A5.gif)
+
+图片切换：
+![avatar](https://github.com/ItemZheng/CVGenerateVedio/blob/master/Example/gif/%E5%9B%BE%E7%89%87%E5%88%87%E6%8D%A2.gif)
+
+图片淡出，视频淡入
+![avatar](https://github.com/ItemZheng/CVGenerateVedio/blob/master/Example/gif/%E5%9B%BE%E7%89%87%E6%B7%A1%E5%87%BA_%E8%A7%86%E5%B1%8F%E6%B7%A1%E5%85%A5.gif)
